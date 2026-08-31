@@ -5,6 +5,7 @@ project:
 book:
   title: "Tidy design principles"
   reader-mode: true
+  llms-txt: true
 
   page-footer:
     left: |
@@ -95,4 +96,3 @@ format:
     callout-appearance: simple
 
 editor: visual
-
